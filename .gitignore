@@ -1,0 +1,6 @@
+# alle .log files ignorieren
+*.log
+# alle temporär erzeugten daten
+temp/
+# meine eigenen notizen etc ignorieren
+yy/
